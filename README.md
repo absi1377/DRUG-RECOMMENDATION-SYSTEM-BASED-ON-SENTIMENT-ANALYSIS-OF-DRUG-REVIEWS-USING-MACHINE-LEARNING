@@ -105,7 +105,7 @@ The **Linear SVC** model using **TF-IDF** achieved the highest accuracy of **93%
 ## **How to Run the Project**
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/drug-recommendation-system.git
+   git clone https://github.com/Chandra-Siddartha/DRUG-RECOMMENDATION-SYSTEM-BASED-ON-SENTIMENT-ANALYSIS-OF-DRUG-REVIEWS-USING-MACHINE-LEARNING.git
    ```
 2. **Navigate to the directory**:
    ```bash
